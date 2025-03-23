@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnyuIsPro7
 - 👀 I’m interested in JavaScript, HTML, CSS, SQL and Python
 - 🌱 I’m currently learning JavaScript 
-- 😄 Pronouns: Don't judge a book by its cover.
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know Mount Everest is the youngest mountain of all!
 
 <!---
